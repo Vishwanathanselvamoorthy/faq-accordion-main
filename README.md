@@ -17,8 +17,7 @@ Easy-to-use interface for both desktop and mobile users
 HTML5
 CSS3
 JavaScript
-Getting Started
-To get started with the project, follow these steps:
+
 
 
 ## For Mobile (375px) :
