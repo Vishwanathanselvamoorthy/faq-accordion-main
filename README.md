@@ -1,10 +1,10 @@
-## FAQ Accordion
+## 📚 FAQ Accordion
 
-## Description
+## 📝Description
 
 FAQ Accordion is a simple web application that provides answers to frequently asked questions. Users can expand and collapse questions by clicking on them, providing a user-friendly experience for navigating through the FAQs.
 
-## Features
+## ✨Features
 
 Accordion-style layout for organizing FAQs
 Toggle functionality to expand and collapse individual questions
@@ -12,7 +12,7 @@ Clean and responsive design for seamless viewing across devices
 Accessibility features for improved user experience
 Easy-to-use interface for both desktop and mobile users
 
-## Tech Stack
+## ⚙️Tech Stack
 
 HTML5
 CSS3
